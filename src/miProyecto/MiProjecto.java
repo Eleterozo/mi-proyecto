@@ -6,6 +6,7 @@ public class MiProjecto {
 		// TODO Auto-generated method stub
 		System.out.println("Macarrones con Queso");
 		System.out.println("Hola");
+		System.out.println("Clonación superada");
 
 	}
 }
